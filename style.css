@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+.black{
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 100%;
+    padding-top: 80px;
+}
+
+#text{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 30px 50px;
+    font-size: large;
+    border-radius: 7%;
+    color: white;
+    background-color: red;
+    border-color: red;
+}
